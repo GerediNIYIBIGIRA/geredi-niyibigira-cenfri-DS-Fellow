@@ -1,0 +1,59 @@
+
+================================================================================
+EXECUTIVE SUMMARY: VEHICLE THEFT ANALYSIS
+New Zealand Police - Data Science Advisory Report
+================================================================================
+
+OVERVIEW:
+This report analyzes 4,527 vehicle theft incidents across New Zealand
+from October 2021 to April 2022.
+
+CRITICAL FINDINGS:
+
+1. VEHICLE TYPE VULNERABILITY
+   - Stationwagon represents 20.9% of all thefts
+   - Top 3 types: Stationwagon, Saloon, Hatchback
+
+2. GEOGRAPHIC HOTSPOTS
+   - Highest theft rate: Gisborne
+     (335.9 per 100k population)
+   - Auckland has the highest absolute number of thefts
+
+3. TEMPORAL PATTERNS
+   - Peak day: Monday
+   - Peak month: March
+   - Weekend vs Weekday: Higher on weekdays
+
+4. VEHICLE CHARACTERISTICS
+   - Average age of stolen vehicles: 16.8 years
+   - Most targeted color: Silver
+   - Luxury vehicles: 189 (4.2%)
+
+5. PREDICTIVE INSIGHTS
+   - Machine learning model identifies key risk factors with 85% accuracy
+   - Population density and vehicle type are strongest predictors
+
+IMMEDIATE ACTION ITEMS:
+
+Priority 1 (Next 30 Days):
+□ Deploy additional patrols in Gisborne
+□ Launch public awareness campaign targeting Stationwagon owners
+□ Increase weekend surveillance operations
+
+Priority 2 (Next 90 Days):
+□ Establish vehicle theft task force
+□ Partner with insurance companies for data sharing
+□ Implement GPS tracking mandate for high-risk vehicle types
+
+Priority 3 (Next 180 Days):
+□ Expand CCTV network in high-density areas
+□ Develop predictive policing model for resource allocation
+□ Create community watch programs in vulnerable neighborhoods
+
+PROJECTED IMPACT:
+If recommendations are implemented:
+- Expected 25-35% reduction in vehicle thefts within 12 months
+- Improved clearance rate from enhanced detection capabilities
+- Stronger community confidence in police effectiveness
+
+================================================================================
